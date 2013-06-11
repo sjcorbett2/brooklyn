@@ -18,6 +18,7 @@
         "brooklyn-utils":"js/libs/brooklyn-utils",
         "datatables-extensions":"js/libs/dataTables.extensions",
         "googlemaps":"view/googlemaps",
+        "autolink": "js/libs/autolink",
         "text":"js/libs/text",
 
         "model":"js/model",

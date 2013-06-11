@@ -22,6 +22,7 @@ require.config({
         "datatables-extensions":"libs/dataTables.extensions",
         "googlemaps":"view/googlemaps",
         "async":"libs/async",  //not explicitly referenced, but needed for google
+        "autolink": "libs/autolink",
         "text":"libs/text",
         "tpl":"../tpl"
     },

@@ -71,6 +71,7 @@ define([
                                  },
                                  { // value
                                      "mRender": function ( data, type, row ) {
+                                         //var linked = (_.isString(data)) ? data.autoLink() : data;
                                          return Util.prep(Util.roundIfNumberToNumDecimalPlaces(data, 4))
                                      },
                                      "aTargets": [ 3 ]
